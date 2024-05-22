@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">I'm a Software Engineer who is passionate about development and technology. My goal is to create unique and user-friendly programs that improve people's daily lives.</h3>
 
-- 🌱 I’m currently learning **Python and DSA**
+- 🌱 I’m currently learning **Swift, Python and DSA**
 
 - 📫 How to reach me **adrian_mueck@proton.me**
 
